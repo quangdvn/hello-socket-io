@@ -15,7 +15,7 @@ const locationMessageTemplate = document.querySelector(
 ).innerHTML;
 const sideBarTemplate = document.querySelector('#side-bar-template').innerHTML;
 
-//* Scrolling
+//* Scrolling effect
 const autoScroll = () => {
   //* New message element
   const $newMessage = $messages.lastElementChild;
