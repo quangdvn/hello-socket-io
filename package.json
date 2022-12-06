@@ -12,7 +12,7 @@
   "dependencies": {
     "bad-words": "^3.0.3",
     "express": "^4.17.1",
-    "qs": "^6.9.0",
+    "qs": "^6.9.7",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {
